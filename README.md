@@ -1,2 +1,6 @@
 # Testing
-testing
+- Đăng nhập
+- Đăng ký
+- Nguyên liệu
+- Sản phẩm
+- Thanh toán
